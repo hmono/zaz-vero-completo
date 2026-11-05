@@ -1,0 +1,157 @@
+{
+  "chapters": [
+    {
+      "id": "inicio",
+      "short": "A tese",
+      "minutes": 1,
+      "eyebrow": "01 / A METODOLOGIA",
+      "title": "Vendas são resultado de um processo que pode ser gerido.",
+      "lead": "A ZAZ conecta planejamento, pessoas, execução e acompanhamento para transformar objetivos em ação.",
+      "type": "hero"
+    },
+    {
+      "id": "planejamento",
+      "short": "Objetivo e plano",
+      "minutes": 4,
+      "eyebrow": "02 / PLANEJAMENTO",
+      "title": "Começamos pelo objetivo. E voltamos a ele durante a execução.",
+      "lead": "Objetivo, critério de sucesso, período, território e restrições orientam o plano e as decisões.",
+      "type": "planning"
+    },
+    {
+      "id": "formacao",
+      "short": "Formação da equipe",
+      "minutes": 4,
+      "eyebrow": "03 / PESSOAS E TERRITÓRIO",
+      "title": "Território, seleção e formação preparam a operação.",
+      "lead": "Três frentes ajudam a formar uma equipe preparada para atuar.",
+      "type": "media",
+      "items": [
+        {
+          "key": "mapas",
+          "name": "Mapas",
+          "description": "O número de CNPJs no território apoia o dimensionamento da contratação e a alocação da equipe."
+        },
+        {
+          "key": "vitrine",
+          "name": "Vitrine · galeria",
+          "description": "A seleção reúne critérios e decisão do gestor. Rostos visíveis, nomes ocultos."
+        },
+        {
+          "key": "vitrine-interview",
+          "name": "Vitrine · entrevista",
+          "description": "A entrevista integra o processo de seleção. Rostos visíveis, nomes ocultos."
+        },
+        {
+          "key": "vitrine-history",
+          "name": "Vitrine · decisão",
+          "description": "Controles para avaliação e decisão do gestor, com acesso ao histórico e à auditoria.",
+          "caption": "A captura mostra os controles de decisão e de acesso ao histórico; nomes ocultos."
+        },
+        {
+          "key": "academia",
+          "name": "Academia",
+          "description": "Trilhas de formação desenvolvem vendedores e gestores."
+        }
+      ]
+    },
+    {
+      "id": "gestao",
+      "short": "Gestão de pessoas",
+      "minutes": 3,
+      "eyebrow": "04 / GESTÃO",
+      "title": "A composição da equipe muda o potencial de entrega.",
+      "lead": "As faixas ABC apoiam o diagnóstico; a atuação do gestor dá sentido ao acompanhamento.",
+      "type": "abc"
+    },
+    {
+      "id": "campo",
+      "short": "Execução comercial",
+      "minutes": 3,
+      "eyebrow": "05 / EXECUÇÃO",
+      "title": "Do território à oportunidade, a execução ganha continuidade.",
+      "lead": "Planejamento de visitas, uso em campo e acompanhamento comercial.",
+      "type": "media",
+      "items": [
+        {
+          "key": "rotas",
+          "name": "Rotas",
+          "description": "Localização e perfil apoiam o planejamento de visitas."
+        },
+        {
+          "key": "zarah",
+          "name": "Zarah-app",
+          "description": "Registro real do aplicativo em uso no campo."
+        },
+        {
+          "key": "crm",
+          "name": "CRM",
+          "description": "Acompanhamento de oportunidades comerciais.",
+          "pending": "Captura própria ainda não disponível."
+        }
+      ]
+    },
+    {
+      "id": "validacao",
+      "short": "Validação",
+      "minutes": 3,
+      "eyebrow": "06 / VALIDAÇÃO",
+      "title": "Executar e validar são responsabilidades distintas.",
+      "lead": "A confirmação comercial e a conferência apoiam o tratamento de pendências. Quem valida é diferente de quem executa.",
+      "type": "media",
+      "items": [
+        {
+          "key": "handshake",
+          "name": "Handshake",
+          "description": "Confirmar o entendimento comercial antes de avançar."
+        },
+        {
+          "key": "apolo",
+          "name": "Apolo / backoffice",
+          "description": "Registro real do processo de backoffice. A imagem não representa uma fila Apolo."
+        }
+      ]
+    },
+    {
+      "id": "acompanhamento",
+      "short": "Utilização e atendimento",
+      "minutes": 2,
+      "eyebrow": "07 / ACOMPANHAMENTO",
+      "title": "A venda continua na utilização efetiva.",
+      "lead": "Acompanhar o volume declarado e o transacionado dá contexto ao atendimento.",
+      "type": "follow"
+    },
+    {
+      "id": "resultados",
+      "short": "Resultados",
+      "minutes": 4,
+      "eyebrow": "08 / HISTÓRICO",
+      "title": "Cinco perspectivas para acompanhar a operação.",
+      "lead": "Credenciamentos, equipe, produtividade, margem e TPV médio: uma leitura conjunta da evolução mensal.",
+      "type": "charts"
+    },
+    {
+      "id": "ciclo",
+      "short": "Fechar o ciclo",
+      "minutes": 1,
+      "eyebrow": "09 / SÍNTESE",
+      "title": "O aprendizado volta ao planejamento.",
+      "lead": "Comparar o plano com o realizado, compreender desvios e definir ações mantém a gestão em movimento.",
+      "type": "closing"
+    }
+  ],
+  "copy": {
+    "plan": "Plano congelado após o travamento: referência original para comparar a evolução.",
+    "forecast": "Previsão atual: incorpora premissas revistas. Cada versão publicada permanece fixa; alterações seguintes geram nova versão.",
+    "actual": "O que ocorreu, confrontado com as referências do planejamento.",
+    "planningRules": "Comparar a mesma competência, definição, unidade e escopo. O gestor informa premissas e propõe ajustes; a administração decide, trava e publica. Drivers são premissas ou quantidades; receita, custo e resultado são calculados.",
+    "abcCaveat": "Dez vendedores com metas iguais. Cálculo: (Alfa × 150 + Beta × 75 + Charlie × 25) / 10. Exemplo ilustrativo, não resultado realizado. Reclassificar uma pessoa sem mudar sua produção não aumenta vendas.",
+    "manager": "Relatórios apoiam o diagnóstico, a ação e o acompanhamento da equipe.",
+    "declared": "O que foi declarado no momento da contratação.",
+    "processed": "O que foi efetivamente processado ao longo do uso.",
+    "followup": "A diferença orienta a conversa e a ação; não representa garantia de migração.",
+    "whatsapp": "A Zarah identifica o assunto e a conversa segue com uma atendente humana. A Zarah-app é usada em campo.",
+    "discussion": "Qual resultado priorizar? Em qual território e período? Como acompanhar as decisões?",
+    "chartsNote": "Período: dez/2022 a ago/2026. Passe o cursor ou selecione um mês para comparar os cinco indicadores. Clique novamente para soltar a seleção. Margem, TPV e transacionantes indisponíveis de abr/2026 a ago/2026. TPV médio preliminar, sujeito a conciliação: divergência de até 1,24% no detalhamento. Margem = receita líquida / volume; não é margem operacional da ZAZ. Os indicadores descrevem a evolução observada e não estabelecem causalidade."
+  }
+}
